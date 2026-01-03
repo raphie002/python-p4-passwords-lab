@@ -1,3 +1,4 @@
+// client/src/components/Home.js
 function Home({ user }) {
   if (user) {
     return <h1>Welcome, {user.username}!</h1>;

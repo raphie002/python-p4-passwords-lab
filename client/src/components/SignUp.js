@@ -1,3 +1,4 @@
+// client/src/components/SignUp.js
 import React, { useState } from "react";
 
 function SignUp({ setUser }) {
